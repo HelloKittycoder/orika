@@ -15,6 +15,14 @@ import java.util.*;
 /**
  * Created by shucheng on 2019-7-19 下午 21:45
  * 测试mapAsX方法（主要测试mapAsMap方法，将List<T>中实例类中的两个属性分别作为key、value转换到新的Map中）
+ *
+ * 相关链接：
+ * https://orika-mapper.github.io/orika-docs/advanced-mappings.html
+ * https://gist.github.com/elaatifi/6269684
+ * https://www.cnkirito.moe/orika/
+ * https://stackoverflow.com/questions/40496318/orika-mapper-map-to-liststring
+ * https://blog.csdn.net/neweastsun/article/details/80559868
+ * 最后还是到单元测试里找到了用法
  */
 public class MapAsXTest {
 
